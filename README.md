@@ -36,9 +36,3 @@ Built as part of a major project to demonstrate full-stack development skills in
 
 ---
 
-## 📸 Screenshots
-
-_Add screenshots here like:_
-
-```md
-![Homepage](images/homepage.png)
