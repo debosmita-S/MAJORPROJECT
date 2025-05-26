@@ -1,35 +1,44 @@
-🏡 Airbnb Clone
-Live Demo 👉 majorproject-gvt7.onrender.com
-(Click 'Explore')
+# 🏡 Airbnb Clone
 
-An Airbnb-inspired web application that allows users to explore, list, and book rental properties. 
+**Live Demo 👉 [majorproject-gvt7.onrender.com](https://majorproject-gvt7.onrender.com)**  
+_(Click 'Explore' to try it out!)_
+
+An Airbnb-inspired web application that allows users to explore, list, and book rental properties.  
 Built as part of a major project to demonstrate full-stack development skills including authentication, dynamic UI, and RESTful APIs.
 
-🚀 Features
-🔐 User Authentication (Sign up, Login, Logout)
+---
 
-🏘️ Browse Listings: View available stays with descriptions, pricing, and location
+## 🚀 Features
 
-📍 Location-Based Search
+- 🔐 **User Authentication** (Sign up, Login, Logout)
+- 🏘️ **Browse Listings**: View available stays with descriptions, pricing, and location
+- 📍 **Location-Based Search**
+- 📝 **Host Properties**: Allow users to become hosts and list new places
+- 💬 **Reviews & Ratings**
+- 🌐 **Fully Responsive**: Works on desktop, tablet, and mobile
 
-📝 Host Properties: Allow users to become hosts and list new places
+---
 
-💬 Reviews & Ratings
+## 🛠️ Tech Stack
 
-🌐 Fully Responsive: Works on desktop, tablet, and mobile
+### 💻 Frontend:
+- HTML, CSS, JavaScript
+- Bootstrap
 
-🛠️ Tech Stack
-Frontend:
+### 🧠 Backend:
+- Node.js
+- Express.js
+- MongoDB
 
-HTML, CSS, JavaScript
-Bootstrap
+### 🧰 Other Tools:
+- Cloudinary (for image uploads)
+- Render (for deployment)
 
-Backend:
+---
 
-Node.js + Express.js
-MongoDB
+## 📸 Screenshots
 
-Other Tools:
+_Add screenshots here like:_
 
-Cloudinary
-Render for deployment
+```md
+![Homepage](images/homepage.png)
